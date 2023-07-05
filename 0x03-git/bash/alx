@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 #!/bin/bash
-echo "The school is open!"
-=======
-  #!/bin/bash
-  echo "The school is open!"
->>>>>>> master
+echo "Alx School"
+echo "Alx School"
